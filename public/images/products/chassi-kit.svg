@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1524"/><stop offset="1" stop-color="#162b46"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#43d6d0"/><stop offset="1" stop-color="#2f6ef2"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="28" stdDeviation="28" flood-opacity=".45"/></filter></defs>
+<rect width="1600" height="1000" fill="url(#bg)"/><circle cx="1320" cy="180" r="300" fill="#2f6ef2" opacity=".11"/><circle cx="250" cy="860" r="340" fill="#43d6d0" opacity=".09"/><path d="M0 820C320 700 500 900 830 810s530-40 770-170v360H0Z" fill="#ffffff05"/>
+<g filter="url(#shadow)"><g transform="translate(210 150)" fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round"><path d="M125 530 270 210h560l220 320" stroke-width="38"/><path d="M270 210 420 80h290l120 130" stroke-width="34"/><path d="M420 80 500 420M710 80 660 420M270 210 660 420M830 210 500 420" stroke-width="24"/><path d="M125 530h925" stroke-width="42"/><path d="M170 530 305 640h580l165-110" stroke-width="28"/><g stroke="#f2b85b" stroke-width="18"><path d="M300 420h390"/><path d="M380 520V300M760 520V300"/></g></g></g>
+<text x="90" y="110" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#43d6d0" letter-spacing="6">MN ANIMAT</text>
+<text x="90" y="885" font-family="Arial, sans-serif" font-size="66" font-weight="800" fill="#f6fbff">KIT ESTRUTURAL</text>
+<text x="92" y="938" font-family="Arial, sans-serif" font-size="28" fill="#9eb4ce">Tubos preparados • organização de montagem • personalização</text>
+</svg>

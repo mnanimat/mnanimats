@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1524"/><stop offset="1" stop-color="#162b46"/></linearGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#52eee5"/><stop offset="1" stop-color="#4e7eff"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="28" stdDeviation="28" flood-opacity=".45"/></filter></defs>
+<rect width="1600" height="1000" fill="url(#bg)"/><circle cx="1320" cy="180" r="300" fill="#4e7eff" opacity=".11"/><circle cx="250" cy="860" r="340" fill="#52eee5" opacity=".09"/><path d="M0 820C320 700 500 900 830 810s530-40 770-170v360H0Z" fill="#ffffff05"/>
+<g filter="url(#shadow)"><g transform="translate(430 110)"><path d="M260 70 100 155 0 370l140 78 65-105v430h410V343l65 105 140-78-100-215-160-85c-38 70-92 102-150 102S298 140 260 70Z" fill="#101c2e" stroke="url(#g)" stroke-width="22"/><path d="M255 305h310v230H255Z" fill="#1d3d5e"/><circle cx="410" cy="418" r="82" fill="url(#g)"/><text x="410" y="440" text-anchor="middle" font-family="Arial" font-size="64" font-weight="800" fill="#07101d">MN</text></g></g>
+<text x="90" y="110" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#52eee5" letter-spacing="6">MN ANIMAT</text>
+<text x="90" y="885" font-family="Arial, sans-serif" font-size="66" font-weight="800" fill="#f6fbff">CAMISETA TECH</text>
+<text x="92" y="938" font-family="Arial, sans-serif" font-size="28" fill="#9eb4ce">Cores, tamanhos e artes personalizadas</text>
+</svg>
