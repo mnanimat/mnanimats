@@ -1,0 +1,34 @@
+CORREÇÃO DO ERRO DA VERCEL
+===========================
+
+Erro tratado:
+npm error Exit handler never called!
+Error: Command "npm install" exited with 1
+
+Arquivos para colocar na raiz do repositório mnanimat/mnanimats:
+- package.json (substituir)
+- vercel.json (substituir)
+- .npmrc (adicionar)
+
+Mantenha o package-lock.json atual no primeiro teste.
+
+PASSOS NA VERCEL
+1. Faça commit dos três arquivos.
+2. Abra o projeto na Vercel.
+3. Vá a Settings > Build and Deployment.
+4. Confirme:
+   Framework Preset: Next.js
+   Root Directory: ./
+   Node.js Version: 22.x
+5. Em Deployments, escolha Redeploy.
+6. DESMARQUE “Use existing Build Cache”.
+7. Inicie o novo deploy.
+
+Se ainda falhar:
+1. Exclua package-lock.json no GitHub.
+2. Em um computador com Node 22 e npm 10, execute:
+   npm install
+3. Envie o novo package-lock.json.
+4. Faça outro Redeploy sem cache.
+
+Não use npm install --force nem --legacy-peer-deps como correção permanente.
